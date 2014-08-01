@@ -1,4 +1,4 @@
-﻿namespace StackExchange.Redis
+﻿namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Specifies how to compare elements for sorting

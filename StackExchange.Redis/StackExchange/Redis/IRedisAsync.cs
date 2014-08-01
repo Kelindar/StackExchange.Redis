@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Common operations available to all redis connections

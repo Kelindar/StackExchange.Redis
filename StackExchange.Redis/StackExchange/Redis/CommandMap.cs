@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Represents the commands mapped on a particular configuration

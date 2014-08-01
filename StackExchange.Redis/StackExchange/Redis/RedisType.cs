@@ -1,4 +1,4 @@
-﻿namespace StackExchange.Redis
+﻿namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// The intrinsinc data-types supported by redis

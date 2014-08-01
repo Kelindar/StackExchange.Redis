@@ -2,7 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Net;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// A list of endpoints

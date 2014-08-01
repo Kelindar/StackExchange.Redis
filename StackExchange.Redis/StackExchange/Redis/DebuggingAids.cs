@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Text.RegularExpressions;
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
 #if DEBUG
 

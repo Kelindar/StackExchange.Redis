@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 
 #if !__MonoCS__
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     
 

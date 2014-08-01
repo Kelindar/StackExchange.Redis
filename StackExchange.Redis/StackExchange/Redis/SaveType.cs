@@ -1,4 +1,4 @@
-﻿namespace StackExchange.Redis
+﻿namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// The type of save operation to perform; note that foreground saving is not offered, as this is basically never a good thing to do through regular code.

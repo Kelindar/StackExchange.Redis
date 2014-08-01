@@ -1,4 +1,4 @@
-﻿namespace StackExchange.Redis
+﻿namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Indicates the flavor of a particular redis server

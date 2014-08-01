@@ -1,4 +1,4 @@
-﻿namespace StackExchange.Redis
+﻿namespace Misakai.Storage.Redis
 {
     internal enum ResultType : byte
     {

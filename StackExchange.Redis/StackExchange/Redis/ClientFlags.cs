@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// The client flags can be a combination of:

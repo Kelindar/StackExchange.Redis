@@ -2,7 +2,7 @@
 using System.IO;
 using System.Net;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Represents the state of an individual client connection to redis

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     sealed class MessageCompletable : ICompletable
     {

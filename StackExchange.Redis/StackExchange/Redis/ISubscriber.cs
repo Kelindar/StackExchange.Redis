@@ -2,7 +2,7 @@ using System;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// A redis connection used as the subscriber in a pub/sub scenario

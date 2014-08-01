@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     internal interface IMultiMessage
     {        IEnumerable<Message> GetMessages(PhysicalConnection connection);

@@ -1,4 +1,4 @@
-﻿namespace StackExchange.Redis
+﻿namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Additional operations to perform when making a server a master

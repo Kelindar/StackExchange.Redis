@@ -1,4 +1,4 @@
-﻿namespace StackExchange.Redis
+﻿namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// <a href="http://en.wikipedia.org/wiki/Bitwise_operation">Bitwise operators</a>

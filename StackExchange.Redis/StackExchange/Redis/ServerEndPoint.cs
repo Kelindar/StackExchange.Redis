@@ -8,7 +8,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     [Flags]
     internal enum UnselectableFlags

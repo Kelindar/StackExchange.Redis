@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     abstract partial class ResultBox
     {

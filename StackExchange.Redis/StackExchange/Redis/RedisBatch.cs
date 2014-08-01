@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     class RedisBatch : RedisDatabase, IBatch
     {

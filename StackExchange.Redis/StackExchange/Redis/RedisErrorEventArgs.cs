@@ -2,7 +2,7 @@
 using System.Net;
 using System.Text;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Notification of errors from the redis server

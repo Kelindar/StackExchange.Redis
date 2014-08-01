@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using System.Text;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Illustrates the queues associates with this server

@@ -2,7 +2,7 @@ using System;
 using System.Net;
 using System.Text;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Describes internal errors (mainly intended for debugging)

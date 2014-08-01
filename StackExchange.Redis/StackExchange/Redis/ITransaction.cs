@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Represents a group of operations that will be sent to the server as a single unit,

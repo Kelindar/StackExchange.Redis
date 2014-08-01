@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Represents the information known about long-running commands

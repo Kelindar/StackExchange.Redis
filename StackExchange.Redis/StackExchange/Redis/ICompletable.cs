@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     interface ICompletable
     {

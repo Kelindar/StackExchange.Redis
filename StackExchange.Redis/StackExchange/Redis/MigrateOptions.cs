@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Additional options for the MIGRATE command

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Provides basic information about the features available on a particular version of Redis

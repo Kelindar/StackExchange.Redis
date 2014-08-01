@@ -7,7 +7,7 @@ using System.Net;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     abstract class ResultProcessor
     {
@@ -1007,7 +1007,7 @@ namespace StackExchange.Redis
                         string s = result.GetString();
                         RedisType value;
                         if (string.Equals(s, "zset", StringComparison.OrdinalIgnoreCase)) value = Redis.RedisType.SortedSet;
-                        else if (!Enum.TryParse<RedisType>(s, true, out value)) value = global::StackExchange.Redis.RedisType.Unknown;
+                        else if (!Enum.TryParse<RedisType>(s, true, out value)) value = global::Misakai.Storage.Redis.RedisType.Unknown;
                         SetResult(message, value);
                         return true;
                 }

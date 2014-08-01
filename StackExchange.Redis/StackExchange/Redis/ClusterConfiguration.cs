@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Indicates a range of slots served by a cluster node

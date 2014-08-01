@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Net;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     internal static class Format
     {

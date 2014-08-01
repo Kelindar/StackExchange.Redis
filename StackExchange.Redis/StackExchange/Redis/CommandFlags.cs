@@ -1,5 +1,5 @@
 ﻿using System;
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Behaviour markers associated with a given command

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Represents a general-purpose result from redis, that may be cast into various anticipated types

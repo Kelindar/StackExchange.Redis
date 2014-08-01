@@ -15,7 +15,7 @@ using Microsoft.Runtime.CompilerServices;
 using System.Runtime.CompilerServices;
 #endif
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     internal static partial class TaskExtensions
     {

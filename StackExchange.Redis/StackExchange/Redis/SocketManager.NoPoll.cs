@@ -1,6 +1,6 @@
 ﻿#if __MonoCS__
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     partial class SocketManager
     {

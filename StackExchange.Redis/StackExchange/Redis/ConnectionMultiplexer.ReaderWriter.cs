@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     partial class ConnectionMultiplexer
     {

@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Reflection.Emit;
 using System.Threading.Tasks;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// We want to prevent callers hijacking the reader thread; this is a bit nasty, but works;

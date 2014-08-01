@@ -2,7 +2,7 @@
 using System.Net;
 using System.Threading;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     internal sealed class ServerSelectionStrategy
     {

@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     internal static class CompletedTask<T>
     {

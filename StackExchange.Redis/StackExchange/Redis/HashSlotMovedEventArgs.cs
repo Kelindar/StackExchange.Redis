@@ -2,7 +2,7 @@
 using System.Net;
 using System.Text;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
     /// <summary>
     /// Contains information about individual hash-slot relocations

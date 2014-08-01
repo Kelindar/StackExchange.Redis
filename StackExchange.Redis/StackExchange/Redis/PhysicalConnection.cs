@@ -11,7 +11,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
 
     internal sealed partial class PhysicalConnection : IDisposable, ISocketCallback

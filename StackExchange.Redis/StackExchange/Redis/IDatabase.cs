@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Net;
 
-namespace StackExchange.Redis
+namespace Misakai.Storage.Redis
 {
 
     /// <summary>
